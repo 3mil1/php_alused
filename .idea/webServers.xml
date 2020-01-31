@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="213b0265-2ce9-4034-9416-dd777a80a4af" name="Ikt server" url="http://varnomasingemil.ikt.khk.ee">
+        <fileTransfer host="varnomasingemil.ikt.khk.ee" port="22" rootFolder="/home/varnomasingemili/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
